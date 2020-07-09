@@ -5,6 +5,6 @@ Make some webgames with Javascript (ES2020 version)
 
 ## Features
 1. 구구단 (gugudan)
-2. 
+2. 끝말잇기 (word relay)
 
 ## Try it Out
