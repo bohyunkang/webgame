@@ -7,5 +7,6 @@ Make some webgames with Javascript (ES2020 version)
 1. 구구단 (gugudan)
 2. 끝말잇기 (word relay)
 3. 사칙연산 계산기 (calculator ＋－×÷ only)
+4. 숫자 야구 (baseball of number)
 
 ## Try it Out
