@@ -8,5 +8,6 @@ Make some webgames with Javascript (ES2020 version)
 2. 끝말잇기 (word relay)
 3. 사칙연산 계산기 (calculator ＋－×÷ only)
 4. 숫자 야구 (baseball of number)
+5. 로또 추첨기 (Lottery draws)
 
 ## Try it Out
