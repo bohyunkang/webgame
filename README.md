@@ -10,5 +10,3 @@ Make some webgames with Javascript (ES2020 version)
 4. 숫자 야구 (baseball of number)
 5. 로또 추첨기 (lottery draws)
 6. 가위바위보 (rock-scissors-paper)
-
-## Try it Out
